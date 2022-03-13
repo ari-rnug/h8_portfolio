@@ -48,4 +48,3 @@ def get_basic_model():
     return model
 
 
-

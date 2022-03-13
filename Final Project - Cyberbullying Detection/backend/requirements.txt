@@ -1,0 +1,7 @@
+gunicorn
+requests
+scikit-learn==0.24.1
+flask==2.0.2
+pandas
+tensorflow-cpu
+numpy
